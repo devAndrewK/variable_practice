@@ -10,3 +10,6 @@ account_balance = 2000.62
 
 has_pets = true
 is_musician = true
+
+first_name = "Noah"
+initial = "B"
