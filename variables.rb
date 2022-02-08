@@ -7,3 +7,6 @@ age = 28
 
 pi_rounded = 3.14
 account_balance = 2000.62
+
+has_pets = true
+is_musician = true
